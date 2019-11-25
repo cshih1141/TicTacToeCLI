@@ -1,6 +1,3 @@
-// console.log("hello");
-
-
 let gameDecisions = [[' ',' ',' '],[' ',' ',' '],[' ',' ',' ']];
 const setBoard = (gameDecisions) => {
   return (
