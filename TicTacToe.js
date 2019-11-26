@@ -19,7 +19,6 @@ const readline = require('readline').createInterface({
   output: process.stdout
 })
 
-
 const checkRowConditions = (player) => {
   for (let i = 0; i < gameDecisions.length; i++) {
     let count = 0;
